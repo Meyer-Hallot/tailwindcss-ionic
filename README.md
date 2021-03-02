@@ -1,8 +1,11 @@
 <p>
-    <a href="https://tailwindcss.com/" target="_blank">
+  <a href="https://tailwindcss.com/" target="_blank">
+    <h1>
       <img alt="Tailwind CSS" width="350" src="https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg">
-    </a><br>
-    A utility-first CSS framework for rapidly building custom user interfaces.
+      for Ionic
+    </h1>
+  </a>
+    A port of the utility-first CSS framework Tailwindcss ment to play nice with Ionic.
 </p>
 
 <p>
